@@ -3,3 +3,5 @@
 breakfast: crunchy nut
 
 lunch: meal deal & huel
+
+snack: mango
