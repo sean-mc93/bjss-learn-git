@@ -5,3 +5,5 @@ breakfast: crunchy nut
 lunch: meal deal & huel
 
 snack: mango
+
+drink: green juice
